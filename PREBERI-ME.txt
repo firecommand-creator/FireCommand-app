@@ -1,0 +1,6 @@
+FireCommand PWA – objava (brezplačno)
+1. Celotno vsebino mape naloži na gostovanje s HTTPS (GitHub Pages, Netlify, Cloudflare Pages).
+2. Odpri naslov v Chromu (Android) ali Safariju (iPhone) -> "Dodaj na začetni zaslon".
+3. Prvi obisk prenese vse v predpomnilnik; potem deluje brez povezave.
+4. Posodobitev: zamenjaj index.html in v sw.js povečaj VERSION (npr. 1.0.1). Nova različica se uporabi ob naslednjem odprtju aplikacije.
+Knjižnice: qrcodejs (MIT), jsQR (Apache 2.0) – vgrajeni v index.html.
